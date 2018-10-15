@@ -1,7 +1,7 @@
 {
   "name": "@grammarly/focal",
   "version": "0.8.1",
-  "description": "FRP UI with React, observables, immutable data and lenses",
+  "description": "@grammarly's rxjs LensedAtom implementation without the React dependency",
   "main": "dist/_cjs/src/index.js",
   "module": "dist/_esm5/src/index.js",
   "es2015": "dist/_esm2015/src/index.js",
