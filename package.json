@@ -2,10 +2,10 @@
   "private": true,
   "name": "focal",
   "scripts": {
-    "build": "yarn workspace @grammarly/focal build",
-    "package": "yarn workspace @grammarly/focal pack",
-    "release": "yarn workspace @grammarly/focal release",
-    "test": "yarn workspace @grammarly/focal test",
+    "build": "yarn workspace focal-sans-react build",
+    "package": "yarn workspace focal-sans-react pack",
+    "release": "yarn workspace focal-sans-react release",
+    "test": "yarn workspace focal-sans-react test",
     "postinstall": "yarn build"
   },
   "devDependencies": {
